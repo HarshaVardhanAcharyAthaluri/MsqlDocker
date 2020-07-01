@@ -23,3 +23,7 @@ We can also use the MySQL command-line interface with the following command:
 `
 docker-compose exec  mysql-development mysql -u<username> -p<password> <database>
 `
+Enter the details.
+![Image of Yaktocat](https://github.com/HarshaVardhanAcharyAthaluri/MsqlDocker/blob/master/login.PNG)
+Login Success.
+![Image of Yaktocat](https://github.com/HarshaVardhanAcharyAthaluri/MsqlDocker/blob/master/success.PNG)
